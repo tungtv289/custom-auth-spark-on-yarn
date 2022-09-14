@@ -1,3 +1,4 @@
+# Custom authen spark web ui on YARN
 ## check hadoop yarn web proxy path
 ll /usr/hdp/3.1.4.0-315/hadoop-yarn/.//hadoop-yarn-server-web-proxy-3.1.1.3.1.4.0-315.jar -> 
 ll /usr/hdp/3.1.4.0-315/hadoop-yarn/.//hadoop-yarn-server-web-proxy.jar
